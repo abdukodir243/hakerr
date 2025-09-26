@@ -1,0 +1,44 @@
+table,tr,th,td{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    text-align: center;
+    width: 1200px;
+}
+.a{
+    background-color: rgb(6, 6, 48);
+}
+div{
+    text-align: center;
+    
+    background-color: rgb(14, 14, 99);
+    border-radius: 10px;
+    color: aliceblue;
+}
+table{
+    text-align: center;
+}
+.gr{
+    background-color: orangered;
+    color: aliceblue;
+}
+.dr{
+    background-color: blue;
+    color: aliceblue;
+   
+}
+.w{
+    text-align: center;
+    width: 500px;
+    background-color: rgb(12, 65, 65);
+}
+.e{
+    text-align: center;
+    width: 500px;
+    background-color: rgb(12, 65, 65);
+}
+.s{
+    width: 200px;
+}
+.z{
+    border-radius: 5px;
+}
